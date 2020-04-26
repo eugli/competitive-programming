@@ -5,7 +5,7 @@ This repo contains my attempts at various competitive programming / technical in
 * USACO Silver, December 2019
 
 ## Goals
-* Complete some AtCoder Beginnger Contests
+* Complete some AtCoder Beginner Contests
 * USACO Gold
 * 100 LeetCode problems
 * Finish Cracking the Coding Interview
