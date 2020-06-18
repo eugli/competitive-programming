@@ -1,4 +1,4 @@
-# competitive-programming
+# Competitive Programming
 This repo contains my attempts at various competitive programming / technical interview problems from USACO, Codeforces, Project Euler, HackerRank, LeetCode, AtCoder, etc.
 
 ## Accomplishments
