@@ -7,6 +7,6 @@ This repo contains my attempts at various competitive programming / technical in
 ## Goals
 * Complete some AtCoder Beginner Contests
 * USACO Gold
-* 100 LeetCode problems
+* Daily LeetCode practice
 * Finish Cracking the Coding Interview
 * Explore Project Euler
